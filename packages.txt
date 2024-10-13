@@ -1,2 +1,2 @@
 libgl1
-https://github.com/RobVee33/DocBudApp/blob/main/qdrant_1.12.1-1_amd64.deb
+#requires https://github.com/RobVee33/DocBudApp/blob/main/qdrant_1.12.1-1_amd64.deb
