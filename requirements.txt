@@ -8,4 +8,5 @@ langchain-qdrant
 langchain-ollama
 unstructured[pdf]
 onnx==1.16.1
+qdrant
 qdrant-client
